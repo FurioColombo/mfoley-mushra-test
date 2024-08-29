@@ -1,0 +1,12 @@
+session_test_id,trial_id,rating_reference,rating_non_reference,rating_reference_score,rating_non_reference_score,rating_time,choice_comment
+bs1116_noloop,trial2,reference,C4,5,5,2115,
+bs1116_noloop,trial2,reference,C2,5,5,1440,
+bs1116_noloop,trial2,reference,C10,5,5,702,
+bs1116_noloop,trial2,reference,C11,5,5,542,
+bs1116_noloop,trial2,reference,C7,5,5,472,
+bs1116_noloop,trial2,reference,C5,5,5,614,
+bs1116_noloop,trial2,reference,C6,5,5,476,
+bs1116_noloop,trial2,reference,C1,5,5,638,
+bs1116_noloop,trial2,reference,C9,5,5,503,
+bs1116_noloop,trial2,reference,C3,5,5,625,
+bs1116_noloop,trial2,reference,C8,5,5,553,
